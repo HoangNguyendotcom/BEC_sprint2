@@ -10,4 +10,6 @@ public class Sprint2Application {
 		SpringApplication.run(Sprint2Application.class, args);
 	}
 
+
+
 }
