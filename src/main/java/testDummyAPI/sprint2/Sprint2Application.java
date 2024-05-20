@@ -1,13 +1,13 @@
-package test.Dummy.API.demo;
+package testDummyAPI.sprint2;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class TestDummyApiApplication {
+public class Sprint2Application {
 
 	public static void main(String[] args) {
-		SpringApplication.run(TestDummyApiApplication.class, args);
+		SpringApplication.run(Sprint2Application.class, args);
 	}
 
 }

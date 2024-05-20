@@ -1,10 +1,10 @@
-package test.Dummy.API.demo;
+package testDummyAPI.sprint2;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class TestDummyApiApplicationTests {
+class Sprint2ApplicationTests {
 
 	@Test
 	void contextLoads() {
